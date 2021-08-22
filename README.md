@@ -47,4 +47,4 @@
 - ProgressBar With Example: 
 
     - [Project Source Code](https://github.com/arnoldvaz27/Android-ProgressBar-with-Example)
-    - [Download File][ProgressBar.zip](https://github.com/arnoldvaz19/Application-Apk-Files/files/7027301/ProgressBar.zip)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7027301/ProgressBar.zip)
