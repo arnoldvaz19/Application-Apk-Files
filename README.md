@@ -44,7 +44,21 @@
     - [Project Source Code](https://github.com/arnoldvaz27/Android-ImageView-with-Example)
     - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7027284/ImageView.zip)
 
+
 - ProgressBar With Example: 
 
     - [Project Source Code](https://github.com/arnoldvaz27/Android-ProgressBar-with-Example)
     - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7027301/ProgressBar.zip)
+
+
+- RadioButton With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Android-RadioButton-with-Example)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7027316/RadioButton.zip)
+
+
+
+- SwitchCompat With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Android-Switch-Compat-with-Example)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7027325/SwitchCompat.zip)
