@@ -93,3 +93,9 @@
 
     - [Project Source Code](https://github.com/arnoldvaz27/Statistics)
     - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7029673/Statistics.zip)
+
+
+- Word and Character Counter With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Word-And-Character-Counter)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7031873/WordsAndCharactersCount.zip)
