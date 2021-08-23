@@ -62,3 +62,34 @@
 
     - [Project Source Code](https://github.com/arnoldvaz27/Android-Switch-Compat-with-Example)
     - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7027325/SwitchCompat.zip)
+
+
+
+- FacebookPostBottomSheetUI With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Facebook-CreatePost-Options-BottomSheet)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7029436/FacebookPostBottomSheetUI.zip)
+
+
+- InstagramBottomSheetUI With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Instagram-Profile-BottomSheet)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7029504/InstagramBottomSheetUI.zip)
+
+
+- MelophilePlayerUI With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Melophile-Player-UI)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7029582/MelophilePlayerUI.zip)
+
+
+- MXPlayerDetailOptionUI With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/MX-Player-Options-AlertDialog)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7029617/MXPlayerDetailOptionUI.zip)
+
+
+- Statistics With Example: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Statistics)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7029673/Statistics.zip)
