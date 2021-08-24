@@ -99,3 +99,51 @@
 
     - [Project Source Code](https://github.com/arnoldvaz27/Word-And-Character-Counter)
     - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7031873/WordsAndCharactersCount.zip)
+
+
+- PDF Reader: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Pdf-Reader)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041076/Pdf.Reader.zip)
+
+
+- Notebook: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/Notebook)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041091/Notebook.zip)
+
+
+- Countries Of Asia: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/CountriesOfAsia)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041160/CountriesOfAsia.zip)
+
+
+- Countries Of America: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/CountriesOfAmericas)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041102/CountriesOfAmericas.zip)
+
+
+- Countries Of Europe: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/CountriesOfEurope)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041123/CountriesOfEurope.zip)
+
+
+- Countries Of Africa: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/CountriesOfAfrica)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041128/CountriesOfAfrica.zip)
+
+
+- Countries Of Oceanic: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/CountriesOfOceanic)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041138/CountriesOfOceanic.zip)
+
+
+- Countries Of World: 
+
+    - [Project Source Code](https://github.com/arnoldvaz27/CountriesOfWorld)
+    - [Download File](https://github.com/arnoldvaz19/Application-Apk-Files/files/7041154/CountriesOfWorld.zip)
